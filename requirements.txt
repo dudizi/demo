@@ -1,0 +1,5 @@
+voila>=0.3.5
+bqplot
+numpy
+# ipyvuetify>=0.1.9
+# voila-vuetify>=0.0.1a6
